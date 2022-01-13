@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.navbar {
+ padding: 1px;
+ padding-left: 25px;
+} 
+
+h4{
+    margin: 15px;
+}
+
+hr{
+    border: 1px solid rgba(17, 9, 9, 0.692);
+}
+
+.card{
+    width: 270px;
+    align-items: center;
+    box-sizing: border-box;
+    border: 2px solid rgb(95, 95, 172);
+    justify-content: center;
+    align-content: center;
+}
+.btn{
+    margin: 2px;
+    border: 1px lightblue;
+    color: lightblue;
+}
